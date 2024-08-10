@@ -42,7 +42,10 @@ export default function Navbar() {
                 <Link href={"/about"}>About</Link>
               </li>
               <li>
-                <a>Logout</a>
+                <Link href={"/category/sports"}>Sports</Link>
+              </li>
+              <li>
+                <Link href={"/category/politics"}>Politics</Link>
               </li>
             </ul>
           </div>
