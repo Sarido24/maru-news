@@ -4,9 +4,9 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "img.daisyui.com",
+        hostname: "static01.nyt.com",
         port: "",
-        pathname: "/**",
+        pathname: "/images/**",
       },
     ],
   },
