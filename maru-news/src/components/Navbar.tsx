@@ -47,6 +47,9 @@ export default function Navbar() {
               <li>
                 <Link href={"/category/politics"}>Politics</Link>
               </li>
+              <li>
+                <Link href={"/category/technology"}>Technology</Link>
+              </li>
             </ul>
           </div>
         </div>
